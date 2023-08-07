@@ -1,0 +1,5 @@
+arrow keys to move up/down and left/right
+travel from the bottom of the screen to the top
+game will end itself when you reach the top and win
+
+spritesheet and background from: https://www.spriters-resource.com/arcade/frogger/sheet/11067/
